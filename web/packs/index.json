@@ -1,6 +1,7 @@
 {
   "packs": [
-    "MonogatariStickersNew.json"
+    "MonogatariStickersNew.json",
+    "projectsekaimiku.json"
   ],
   "homeserver_url": "https://matrix.lolihouse.top/"
 }
